@@ -1,0 +1,55 @@
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+env.bak/
+venv.bak/
+
+# Model files
+Test/model/
+
+# Large data files
+data/Test/coformers/
+data/Mol_Blocks/
+data/processed_features/
+data/Mol_Blocks.dir
+data/Fold_10.dir
+data/CC_Table/*.tab
+
+# Compiled files
+*.so
+*.pyd
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS generated files
+Thumbs.db
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Excel output files
+*.xlsx
+*.xls
+
+# CSV files generated during processing
+*.csv

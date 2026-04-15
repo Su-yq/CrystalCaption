@@ -1,0 +1,4 @@
+tensorflow>=1.6,<2.0
+rdkit
+openbabel==2.4.1
+scikit-learn

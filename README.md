@@ -44,7 +44,7 @@ CrystalCaption is a novel framework for predicting co-crystal formation between 
 To predict co-crystal formation using the trained model:
 
 ```bash
-python Test/predict.py -table ./Test/Test_Table.tab -mol_dir ./Test/coformers -out cc_test.xlsx -fmt sdf -model_path ./Test/model/model_8/
+python Test/predict.py -table ./Test/Test_Table.tab -mol_dir ./Test/coformers -out cc_test.xlsx -fmt sdf -model_path ./Test/model/trained_model/
 ```
 
 **Parameters:**

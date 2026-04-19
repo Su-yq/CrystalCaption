@@ -95,7 +95,7 @@ The project includes various datasets for training and testing:
 
 ## Model Evaluation
 
-The model has been evaluated using ten-fold cross-validation, achieving high accuracy in predicting co-crystal formation. The trained models are available in the `Test/model/` directory.
+The model has been evaluated using ten-fold cross-validation, achieving high accuracy in predicting co-crystal formation. 
 
 ## License
 
